@@ -6,6 +6,7 @@
 
 The project expands upon [canozcivelek's traffic-sign-recognition](https://github.com/canozcivelek/traffic-sign-recognition), integrating recent advancements. </h4></strong>
 
+![Cildren crossing](Images/OAK-D Camera_screenshot_29.03.2024.png)
 
 ## Highlights
 
