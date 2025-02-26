@@ -56,6 +56,7 @@ Navigate through the interface to open the provided [New_trafficSigns.ipynb](htt
 **Final Notes**
 
 - After training, compare your model's predictions (Predicted sign: [ ]) with the correct signs listed in [signnames.csv](https://github.com/svndin/image-processing-lab/blob/main/signnames.csv).
+- The model is not yet fully optimized and can be further improved to enhance accuracy.
 - For a detailed guide on setting up the OAK-D camera, refer to the instructions in the next section.
 
  
